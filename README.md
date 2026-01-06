@@ -1,7 +1,7 @@
 # Expense-tracker-system
-Name : Onowighose Marvellous
-Matric no : 24/13788
-Department : Software engineering
+* Name : Onowighose Marvellous
+* Matric no : 24/13788
+* Department : Software engineering
 
 # 1. Requirement Analysis
 This system tracks user expenses.
